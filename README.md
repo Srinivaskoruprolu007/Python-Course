@@ -1,2 +1,2 @@
 # Python-Course
-From Basic Pyhton to Advanced
+From Basic Python to Advanced python
