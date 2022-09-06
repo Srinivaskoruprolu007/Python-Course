@@ -15,3 +15,10 @@ l1.sort()
 print(l1)
 l1.reverse()
 print(l1)
+l1.append(22)  # it will add at end of the list
+print(l1)
+l1.insert(3, 8)  # it will insert a value at particular index
+print(l1)
+print(l1.pop(2))  # it will delete and return the value at index 2
+l1.remove(22)  # It will remove 22 from the list
+print(l1)
