@@ -55,7 +55,7 @@ print(x >= y)
 
 """ Logical Operators"""
 # AND operator
-print(x > 3 and x < 3)  # it results True when both conditions are True
+print(x > 3 > x)  # it results True when both conditions are True
 
 # OR Operator
 print(x > 3 or x < 3)  # it results True when any of the condition is true
