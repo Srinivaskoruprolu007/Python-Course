@@ -21,3 +21,10 @@ while num <= 50:
 # num1 = 1
 # while num1 <= 5:
 #     print(num1)
+
+# let's print items in the list
+list1 = [1, 3, 4, 5, "banana"]
+i = 0
+while i < len(list1):
+    print(list1[i])
+    i += 1
