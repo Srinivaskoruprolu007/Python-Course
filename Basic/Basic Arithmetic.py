@@ -10,3 +10,5 @@ print(10/3)
 print(10 % 3)
 # exponents
 print(10 ** 3)
+# integer divisor
+print(3//2)
