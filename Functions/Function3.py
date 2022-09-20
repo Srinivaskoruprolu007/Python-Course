@@ -15,4 +15,5 @@ print(greeting("Srinivas"))
 def add(num1:int, num2:int) -> int:
     total = num1+num2
     print(total)
+    
 add(5,8)
