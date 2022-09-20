@@ -15,3 +15,9 @@ The word [Algorithm](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) 
 8. Greedy Algorithm
 9. Dynamic Programming Algorithm
 10. Randomized Algorithm
+
+###               TOPICS
+* Analysis of Algorithms
+* Searching and Sorting
+* Greedy Algorithm
+* Dynamic Programming
