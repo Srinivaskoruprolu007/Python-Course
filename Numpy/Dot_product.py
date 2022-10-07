@@ -13,7 +13,7 @@ dot = np.dot(l1, l2)
 print(dot)
 
 sum1 = a1 * a2
-dot = (a1 * a2).sum()
+dot = (a1 * a2).total()
 print(dot)
 
 # simple_method
